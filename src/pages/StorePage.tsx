@@ -32,7 +32,7 @@ const StorePage: React.FC = () => {
     },
     "2": { 
       id: 2,
-      name: "Indomie",
+      name: "Chicken Jockey",
       image: "/Image-Upload/png/4c956da1-19b8-4276-a991-28eb88361a04.png",
       description: "Outlet yang menyediakan berbagai jenis pisau dan peralatan memotong.",
       address: "Jl. Sudirman No. 45, Bandung",
@@ -41,7 +41,7 @@ const StorePage: React.FC = () => {
     },
     "3": {
       id: 3,
-      name: "Chicken Jockey",
+      name: "Indomie",
       image: "/Image-Upload/png/4c956da1-19b8-4276-a991-28eb88361a04.png",
       description: "Gerai utama dengan area demo memasak dan konsultasi chef.",
       address: "Jl. Gajah Mada No. 67, Surabaya",
