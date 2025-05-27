@@ -15,33 +15,33 @@ const GalleryPage: React.FC = () => {
   const galleryItems = [
     { 
       id: 1, 
-      title: "Chef Knife in Action",
-      image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=800"
+      title: "Akhmad Syafiul Anam",
+      image: "../public/image-Upload/jpg/WhatsApp Image 2025-05-27 at 21.35.49_462e5574.jpg"
     },
     { 
       id: 2, 
-      title: "Professional Kitchen Setup",
-      image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800"
+      title: "IMMANUEL ISSAC HADI ",
+      image: "../public/image-Upload/jpg/WhatsApp Image 2025-05-27 at 21.59.37_f84a15c3.jpg"
     },
     { 
       id: 3, 
-      title: "Precision Cutting Technique",
-      image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800"
+      title: "Muhammad Hazel Zahran Saleh",
+      image: "../public/image-Upload/jpg/WhatsApp Image 2025-05-27 at 21.36.35_22eef5bb.jpg"
     },
     { 
       id: 4, 
-      title: "Knife Collection",
-      image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800" 
+      title: "RAFI KAMASYAMSI ",
+      image: "../public/image-Upload/jpg/WhatsApp Image 2025-05-27 at 21.38.05_fa8d9147.jpg" 
     },
     { 
       id: 5, 
-      title: "Food Preparation",
-      image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?auto=format&fit=crop&w=800"
+      title: "MUHAMMAD ALVIN SATRIA ",
+      image: "../public/image-Upload/jpg/WhatsApp Image 2025-05-27 at 21.39.20_14d14e5c.jpg"
     },
     { 
       id: 6, 
-      title: "Artisan Knifemaking",
-      image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=800" 
+      title: "HAFIZ WALIYUDDIN AKBAR",
+      image: "../public/image-Upload/jpg/WhatsApp Image 2025-05-27 at 22.01.13_10972b95.jpg" 
     },
   ];
 
@@ -60,9 +60,8 @@ const GalleryPage: React.FC = () => {
           </div>
           
           <div className="button-buy relative inline-block mb-16">
-            <button className="bg-amber-400 hover:bg-amber-500 text-black font-bold py-3 px-6 rounded-md transition-all transform hover:scale-105">
-              Buy now
-            </button>
+            
+            Wajah-wajah orang yang telah mengikuti workshop kami
           </div>
 
           <div className="carousel-container relative mb-16">
