@@ -75,6 +75,7 @@ const AboutPage: React.FC = () => {
         <div className="rounded-2xl p-8 shadow-lg mb-16" style={{ backgroundColor: 'rgba(255, 255, 255, 0.95)' }}>
           <h2 className="text-3xl font-bold text-center mb-12" style={{ color: '#155263' }}>
             Mengapa Memilih <span style={{ color: '#FF9A3C' }}>GKMeal?</span>
+            
           </h2>
           
           <div className="grid md:grid-cols-3 gap-8">
