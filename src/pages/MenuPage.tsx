@@ -26,13 +26,13 @@ const MenuPage: React.FC = () => {
       id: 2, 
       name: "STORE 2", 
       description: "Outlet yang menyediakan berbagai jenis pisau dan peralatan memotong", 
-      image: "/Image-Upload/jpg/yapguez.jpg"
+      image: "../public/Image-Upload/jpg/store2.jpg"
     },
     { 
       id: 3, 
       name: "STORE 3", 
       description: "Gerai utama dengan area demo memasak dan konsultasi chef", 
-      image: "../public/Image-Upload/jpg/store2.jpg" 
+      image: "../public/Image-Upload/jpg/yapguez.jpg" 
     },
     { 
       id: 4, 

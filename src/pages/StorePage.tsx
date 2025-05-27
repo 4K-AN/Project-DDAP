@@ -24,9 +24,9 @@ const StorePage: React.FC = () => {
     "1": {
       id: 1,
       name: "Snack Overflow",
-      image: "/Image-Upload/jpg/store1.jpg",
-      bgImage: "/Image-Upload/jpg/store1.jpg",
-      description: "Toko premium kami dengan koleksi lengkap peralatan dapur kualitas terbaik.",
+      image: "/Image-Upload/png/Snackreall (1).png",
+      bgImage: "/Image-Upload/png/Snackreall (1).png",
+      description: "Welcome to Snack Overflow, FILKOM's snack canteen that specializes in providing delicious, cheap snacks, and makes you excited to code again! Hungry when doing assignments? Keep getting errors? Relax, we have the solution.",
       address: "Jl. Pahlawan No. 123, Jakarta",
       phone: "+62 123-456-7890",
       openingHours: "Senin - Sabtu: 09:00 - 21:00"
@@ -34,9 +34,9 @@ const StorePage: React.FC = () => {
     "2": {
       id: 2,
       name: "Chicken Jockey",
-      image: "/Image-Upload/png/4c956da1-19b8-4276-a991-28eb88361a04.png",
-      bgImage: "/Image-Upload/png/Lapak Mie Yamin.png",
-      description: "Outlet yang menyediakan berbagai jenis pisau dan peralatan memotong.",
+      image: "/Image-Upload/jpg/store2.jpg",
+      bgImage: "/Image-Upload/jpg/store2.jpg",
+      description: "Mate, I just had chicken wings so good I nearly cried. The skin? Fireworks-crispy. The flavour? A perfect storm—sweet, spicy, savoury, all doing a mad dance on my tongue. And the meat? Tender like it was slow-cooked by angels. That sauce hugged my fingers like it had feelings. Honestly, spiritual experience.",
       address: "Jl. Sudirman No. 45, Bandung",
       phone: "+62 123-456-7891",
       openingHours: "Senin - Minggu: 10:00 - 22:00"
@@ -44,9 +44,9 @@ const StorePage: React.FC = () => {
     "3": {
       id: 3,
       name: "Indomie",
-      image: "/Image-Upload/png/4c956da1-19b8-4276-a991-28eb88361a04.png",
-      bgImage: "/Image-Upload/png/Lapak Minuman (1).png",
-      description: "Gerai utama dengan area demo memasak dan konsultasi chef.",
+      image: "/Image-Upload/png/Indomiereall.png",
+      bgImage: "/Image-Upload/png/Indomiereall.png",
+      description: "Mate, I’m hooked on Indomie — it’s not a snack, it’s a way of life. I crave it morning to night, with Mi Goreng basically running through my veins. Seasoning packet? Straight-up magic. My mate tried to save me with salad — I said, “Keep your lettuce, I’ve got joy in a noodle pack.",
       address: "Jl. Gajah Mada No. 67, Surabaya",
       phone: "+62 123-456-7892",
       openingHours: "Senin - Sabtu: 09:00 - 20:00"
@@ -55,8 +55,8 @@ const StorePage: React.FC = () => {
       id: 4,
       name: "Beverages",
       image: "/Image-Upload/png/Lapak Minuman (1).png",
-      bgImage: "/Image-Upload/jpg/store1.jpg",
-      description: "Toko khusus alat dapur modern dan teknologi memasak terkini.",
+      bgImage: "/Image-Upload/png/Lapak Minuman (1).png",
+      description: "It’s not just a drink—it’s a vibe. A blend of calm, chill, and just the right amount of sweetness. Made for quiet afternoons, deep thoughts, or catching up with your favorite people. Whatever the reason, this is your moment to pause and enjoy something that simply feels right.",
       address: "Jl. Diponegoro No. 89, Semarang",
       phone: "+62 123-456-7893",
       openingHours: "Senin - Minggu: 09:00 - 21:00"
@@ -66,7 +66,7 @@ const StorePage: React.FC = () => {
       name: "Noodles and Katsugoi",
       image: "/Image-Upload/png/Lapak Mie Yamin.png",
       bgImage: "/Image-Upload/png/Lapak Mie Yamin.png",
-      description: "Outlet premium dengan layanan khusus dan produk eksklusif.",
+      description: "A tasty combo of savory Yamin noodles and crispy chicken katsu, served with wontons, greens, and warm broth. Also there are tasty  fried rice and Nasi Gila 😱. Quick, filling, and perfect for your campus lunch!",
       address: "Jl. Ahmad Yani No. 34, Medan",
       phone: "+62 123-456-7894",
       openingHours: "Senin - Sabtu: 10:00 - 20:00"
