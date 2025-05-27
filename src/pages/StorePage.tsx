@@ -34,8 +34,8 @@ const StorePage: React.FC = () => {
     "2": {
       id: 2,
       name: "Chicken Jockey",
-      image: "/Image-Upload/jpg/store2.jpg",
-      bgImage: "/Image-Upload/jpg/store2.jpg",
+      image: "/Image-Upload/png/Chicken Jockeyreall.png",
+      bgImage: "/Image-Upload/png/Chicken Jockeyreall.png",
       description: "Mate, I just had chicken wings so good I nearly cried. The skin? Fireworks-crispy. The flavour? A perfect storm—sweet, spicy, savoury, all doing a mad dance on my tongue. And the meat? Tender like it was slow-cooked by angels. That sauce hugged my fingers like it had feelings. Honestly, spiritual experience.",
       address: "Jl. Sudirman No. 45, Bandung",
       phone: "+62 123-456-7891",
