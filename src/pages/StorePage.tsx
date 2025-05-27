@@ -107,7 +107,7 @@ const StorePage: React.FC = () => {
     >
       <Navbar />
 
-      <div className="container mx-auto px-1 py-16 backdrop-blur-sm bg-white/50 rounded-lg mt-10">
+      <div className="backdrop-blur-sm bg-white/50 rounded-lg mt-10">
         <Button
           variant="ghost"
           onClick={() => navigate('/menu')}
