@@ -19,31 +19,31 @@ const MenuPage: React.FC = () => {
     { 
       id: 1, 
       name: "STORE 1", 
-      description: "Toko premium kami dengan koleksi lengkap peralatan dapur kualitas terbaik", 
+      description: "We are selling the best snack in Brawijaya University. Come and try by yourself!", 
       image: "../public/Image-Upload/jpg/store1.jpg" 
     },
     { 
       id: 2, 
       name: "STORE 2", 
-      description: "Outlet yang menyediakan berbagai jenis pisau dan peralatan memotong", 
+      description: "We are selling the finest fried chicken in Brawijaya University. What do you buying?", 
       image: "../public/Image-Upload/jpg/store2.jpg"
     },
     { 
       id: 3, 
       name: "STORE 3", 
-      description: "Gerai utama dengan area demo memasak dan konsultasi chef", 
+      description: "'Indomie Seleraku', exactly we are selling Indomies for every single student", 
       image: "../public/Image-Upload/jpg/yapguez.jpg" 
     },
     { 
       id: 4, 
       name: "STORE 4", 
-      description: "Toko khusus alat dapur modern dan teknologi memasak terkini", 
+      description: "Thirsty? We are the best option for you!", 
       image: "../public/Image-Upload/jpg/store4.jpg" 
     },
     { 
       id: 5, 
       name: "STORE 5", 
-      description: "Outlet premium dengan layanan khusus dan produk eksklusif", 
+      description: "No need caption for this peak, just try and you'll never regret. Source? Trust me!", 
       image: "../public/Image-Upload/jpg/store5.jpg" 
     }
   ];
