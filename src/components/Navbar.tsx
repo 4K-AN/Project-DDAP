@@ -21,9 +21,9 @@ const Navbar: React.FC = () => {
               src="../public/Image-Upload/png/logo.png" 
               alt="GKMeal Logo" 
               className="h-10 w-10 object-contain drop-shadow-md"
-              onError={(e) => {
-                console.log('Logo failed to load:', e.target.src);
-                e.target.style.display = 'none';
+              onError={(e: React.SyntheticEvent<HTMLImageElement>) => {
+                console.log('Logo failed to load:', e.currentTarget.src);
+                e.currentTarget.style.display = 'none';
               }}
               onLoad={() => console.log('Logo loaded successfully')}
             />
