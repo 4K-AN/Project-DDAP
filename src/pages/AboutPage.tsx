@@ -3,7 +3,7 @@ import Navbar from '@/components/Navbar';
 
 const AboutPage: React.FC = () => {
   return (
-    <div className="min-h-screen" style={{ backgroundColor: '#155263' }}>
+    <div className="min-h-screen" style={{ backgroundColor: '#063E4D' }}>
       <Navbar />
       
       <div className="max-w-6xl mx-auto px-4 py-12">
